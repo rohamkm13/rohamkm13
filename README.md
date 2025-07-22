@@ -1,20 +1,26 @@
-<h1 align="center">سلام 👋 من روهام هستم</h1>
+<h1 align="center">سلام 👋 من روهام هستم | Hi 👋 I'm Roham</h1>
 
 <p align="center">
-  توسعه‌دهنده فرانت‌اند | عاشق طراحی ریسپانسیو | برنامه‌نویسی با چاشنی خلاقیت
+توسعه‌دهنده فرانت‌اند | عاشق طراحی ریسپانسیو | برنامه‌نویسی با چاشنی خلاقیت  
+Front-End Developer | Passionate about Responsive Design & Creative Coding
 </p>
 
 ---
 
-## 🧠 درباره من
+## 🧠 درباره من | About Me
 
-- 🎓 دانش‌آموز مسیر رشد در فرانت‌اند
-- 💻 تمرکز روی: HTML, CSS, JavaScript, React
-- 🧪 علاقه‌مند به انیمیشن، API و تعامل کاربر
-- 🛠 همیشه در حال ساخت پروژه‌های جدید و به‌روزرسانی سایت شخصی‌ام
-- ---
+- 🎓 دانش‌آموز مسیر رشد در فرانت‌اند  
+  A self-taught learner growing in front-end development  
+- 💻 تمرکز روی: HTML, CSS, JavaScript, React  
+  Focused on: HTML, CSS, JavaScript, React  
+- 🧪 علاقه‌مند به انیمیشن، API و تعامل کاربر  
+  Enthusiastic about animations, APIs, and user interactions  
+- 🛠 همیشه در حال ساخت پروژه‌های جدید و به‌روزرسانی سایت شخصی‌ام  
+  Always creating new projects and upgrading my personal website
 
-## 🔧 مهارت‌ها
+---
+
+## 🔧 مهارت‌ها | Skills
 
 <div align="center">
 
@@ -29,31 +35,11 @@
 
 ---
 
-## 📦 پروژه‌های منتخب
+## 📫 ارتباط با من | Contact Me
 
-### 🎬 [Movie Explorer](https://github.com/roham-dev/movie-explorer)  
-اپلیکیشن جستجوی فیلم با React و OMDb API، طراحی تاریک، جستجو، علاقه‌مندی‌ها
-
-### 🧑‍💻 [Website Portfolio](https://github.com/roham-dev/portfolio-v2)  
-سایت شخصی با تم دارک، انیمیشن اسکرول، فرم تماس فعال، واکنش‌گرا با AOS
-
----
-
-## 📈 آمار فعالیت‌ها
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roham-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roham-dev&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 📫 ارتباط با من
-
-- 🌐 وب‌سایت شخصی: [roham.dev](https://roham.dev)
-- 💌 ایمیل: your@email.com
-- 🔗 لینکدین: [linkedin.com/in/roham-dev](https://linkedin.com/in/roham-dev)
-
----
+- 🌐 وب‌سایت شخصی: [roham.dev](https://roham.dev)  
+  Personal Website: [roham.dev](https://roham.dev)  
+- 💌 ایمیل: your@email.com  
+  Email: your@email.com  
+- 🔗 لینکدین: [linkedin.com/in/roham-dev](https://linkedin.com/in/roham-dev)  
+  LinkedIn: [linkedin.com/in/roham-dev](https://linkedin.com/in/roham-dev)
