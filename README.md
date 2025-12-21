@@ -8,7 +8,14 @@
 ---
 
  🛠 Tech Stack
+
 - Front-End: HTML, CSS, JavaScript, React, TailwindCSS
+
+- Back-End (Learning): Node.js, Express, MongoDB, PostgreSQL
+  
+- CMS: WordPress (Elementor, JetEngine, JetFormBuilder)
+ 
+- Tools: Git, GitHub, Vite, Docker (basic), Figma
 
 <div align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -17,12 +24,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/tailwind-646CFF?style=flat&logo=tailwindcss&logoColor=white"/>
 </div>
-
-- Back-End (Learning): Node.js, Express, MongoDB, PostgreSQL
--  
-- CMS: WordPress (Elementor, JetEngine, JetFormBuilder)
-- 
-- Tools: Git, GitHub, Vite, Docker (basic), Figma  
 
 ---
 
