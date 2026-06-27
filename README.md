@@ -3,19 +3,17 @@
 - 💻 Front-End Developer & WordPress Specialist  
 - 🎨 Passionate about Luxury UX & Creative Web Design  
 - 🚀 Future Full-Stack Engineer, building innovative platforms  
-- 📂 Daily commits on GitHub documenting my developer journey  
+ 
 
 ---
 
  🛠 Tech Stack
 
 - Front-End: HTML, CSS, JavaScript, React, TailwindCSS
-
-- Back-End (Learning): Node.js, Express, MongoDB, PostgreSQL
   
 - CMS: WordPress (Elementor, JetEngine, JetFormBuilder)
  
-- Tools: Git, GitHub, Vite, Docker (basic), Figma
+- Tools: Git, GitHub, Vite, Figma
 
 <div align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -28,9 +26,9 @@
 ---
 
  🌐 Links
-- 📢 [Telegram Channel](https://t.me/r_dev_journey)  
-- 💼 [LinkedIn](https://linkedin.com/in/YourHandle)  
-- 📸 [Instagram](https://instagram.com/YourHandle)
+- 📢 [Telegram Channel] 
+- 💼 [LinkedIn] 
+- 📸 [Instagram]
 
 
 
